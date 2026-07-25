@@ -1,0 +1,9 @@
+[
+  {
+    "id": "my-game",
+    "title": "私のゲーム（直訳）",
+    "description": "ゲームの説明",
+    "appPath": "MyGame.app",
+    "imagePath": null
+  }
+]
