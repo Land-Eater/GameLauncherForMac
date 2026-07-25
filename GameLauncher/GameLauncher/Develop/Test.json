@@ -1,0 +1,17 @@
+[
+  {
+    "id": "calculator",
+    "title": "計算機",
+    "description": "ゲームの説明",
+    "appPath": "/System/Applications/Calculator.app",
+    "imagePath": null
+  },
+  {
+      "id": "text-edit",
+      "title": "メモ帳",
+      "description": "ゲームの説明",
+      "appPath": "/System/Applications/TextEdit.app",
+      "imagePath": null
+  }
+]
+
